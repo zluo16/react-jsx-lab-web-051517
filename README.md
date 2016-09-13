@@ -1,11 +1,12 @@
 # React JSX Lab
 
-## Objectives
-1. Practice defining components' appearance with JSX
-2. Practice compiling JavaScript
+## Overview
 
-## Introduction
-In this lab, we'll focus on writing JSX code to render components. Make sure you export your components, otherwise the
+In this lab, you'll define component with JSX and compile Javascript. 
+
+## Setup
+
+We'll focus on writing JSX code to render components. Make sure you export your components; otherwise the
 tests won't be able to access your code!
 
 ## Registration form
