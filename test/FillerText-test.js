@@ -1,7 +1,7 @@
-const React = require('react');
-const { shallow } = require('enzyme');
+import React from 'react';
+import { shallow } from 'enzyme';
 
-const FillerText = require('../components/FillerText');
+import FillerText from '../components/FillerText';
 
 describe('<FillerText />', function () {
   const wrapper = shallow(<FillerText />);

@@ -1,7 +1,7 @@
-const React = require('react');
-const { shallow } = require('enzyme');
+import React from 'react';
+import { shallow } from 'enzyme';
 
-const RegistrationForm = require('../components/RegistrationForm');
+import RegistrationForm from '../components/RegistrationForm';
 
 describe('<RegistrationForm />', function () {
   const wrapper = shallow(<RegistrationForm />);
