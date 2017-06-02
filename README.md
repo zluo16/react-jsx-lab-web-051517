@@ -18,8 +18,7 @@ tests won't be able to access your code! The tests won't run correctly until you
     
 ## FillerText
 1. In the `components/FillerText.js` file, create React component called `FillerText`.
-2. This component should be a paragraph containing the following text: `I am a filler text. I can be used to fill your
-screen. Amazing!`.
+2. This component should be a paragraph containing the following text: `I am a filler text. I can be used to fill your screen. Amazing!`.
 
 ## Webpage
 1. In the `components/Webpage.js` file, create React component called `Webpage`.
