@@ -11,5 +11,5 @@ ReactDOM.render(
       <Webpage />
     </div>
   ),
-  document.getElementById('main')
+  document.getElementById('root')
 );
