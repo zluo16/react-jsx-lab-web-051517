@@ -25,6 +25,9 @@ tests won't be able to access your code! The tests won't run correctly until you
 2. This component should contain a title with the text `The world's coolest webpage`.
 3. This component should also contain _two_ instances of the `FillerText` component.
 
+## Note
+In JSX, all tags must close. A good example of where this can cause problems is the `<input>` tag. Writting the tag like this will throw an error if you're not following it somewhere with a `</input>`. More often than not though, you don't need to put anything in between the opening and closing input tags. When that's the case, you can just use a self closing tag like this: `<input />`
+
 ## Resources
 - [Webpack][Webpack]
 - [Babel](http://babeljs.io/)
