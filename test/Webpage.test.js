@@ -9,7 +9,7 @@ describe('<Webpage />', function () {
   const wrapper = shallow(<Webpage />);
 
   it('should contain the right title', function () {
-    expect(wrapper.text().to.include("The world's coolest webpage"));
+    expect(wrapper.text()).to.include("The world's coolest webpage");
   });
 
   it('should have two instances of the `FillerText` component', function () {
