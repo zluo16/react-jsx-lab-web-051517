@@ -6,7 +6,7 @@ In this lab, you'll compile your JavaScript into JSX, defining a React component
 
 ## Setup
 
-We'll focus on writing JSX code to render components. Make sure you export your components; otherwise the tests won't be able to access your code!
+We'll focus on writing JSX code to render components. Make sure you export your components; otherwise the tests won't be able to access your code! *The tests will not run until you create components and export them for each of the files below.*
 
 ## Registration form
 1. In the `components/RegistrationForm.js` file, create a React component called `RegistrationForm`.
