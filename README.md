@@ -33,5 +33,5 @@ In JSX, all tags must close. A good example of where this can cause problems is 
 - [Babelify][babelify]
 - [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html)
 
-[Webpack]: webpack.github.io
+[Webpack]: https://webpack.github.io
 [babelify]: https://github.com/babel/babelify
